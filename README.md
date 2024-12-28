@@ -12,5 +12,9 @@ Correlation Analysis: Calculating the correlation matrix to identify the relatio
 
 Outlier Detection: Identifying and handling outliers that may affect model accuracy.
 
+# SUMMARY:
+Overall, these analysis provide valuable insights for various stakeholders such as real estate agents, buyers, sellers, and investors. They can use these insights to make informed decisions regarding pricing strategies, property investments, and market trends. Additionally, further analysis and modeling could be conducted to predict housing prices or understand the factors influencing price variations in more detail.
+
+From the above analysis, we can conclude that the price of the house not only depends on the area but on other factors as well, like furnishing status, whether it is near the main road or not .
 Data Preprocessing: Scaling, normalizing, or encoding features as needed for modeling.
 
